@@ -1,9 +1,15 @@
 
-## 1st Part of React-Redux task building countries database
+## 2nd Part of React-Redux task building countries database
 
-[First configuration result](https://ibb.co/7JzjcDb)
+ In this task has been added:
+
+* rout and routs(in seperate file)
+* presentational components
+* countries styles
+* bootstrap
 
 
+[Progress View](https://5d30cba3ad10181e31dc5ccb--angry-agnesi-332a2f.netlify.com/#/)
 
 
 ____________________________________________________________________________________
