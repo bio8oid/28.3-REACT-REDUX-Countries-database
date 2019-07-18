@@ -8,7 +8,7 @@ import DevTools from './DevTools';
 render(
     <Provider store={store}>
         <div>
-            <h1>Inicjalizacja projektu</h1>
+            <h1>PROJECT INIT TEST</h1>
             <DevTools />
         </div>
     </Provider>,

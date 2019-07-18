@@ -1,3 +1,21 @@
+
+## 1st Part of React-Redux task building countries database
+
+[First configuration result](https://5d30ccbcc5715c6048d00b37--nervous-mclean-7453aa.netlify.com/)
+
+### 2nd Part
+
+[Go To => Branch 28.4](https://github.com/bio8oid/28.3-REACT-REDUX-Countries-database/tree/28.4)
+
+
+### 3rd Part
+
+[Go To => Branch 28.5](https://github.com/bio8oid/28.3-REACT-REDUX-Countries-database/tree/28.5)
+
+
+____________________________________________________________________________________
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
