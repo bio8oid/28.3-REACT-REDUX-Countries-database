@@ -1,3 +1,14 @@
+
+## 1st Part of React-Redux task building countries database
+
+[First configuration result](https://ibb.co/7JzjcDb)
+
+
+
+
+____________________________________________________________________________________
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
