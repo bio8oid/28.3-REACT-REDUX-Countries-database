@@ -3,12 +3,18 @@ import { render } from 'react-dom';
 import { Provider } from 'react-redux';
 import store from './store';
 import { getCountries } from './actions/actions-countries';
+import { Router, hashHistory } from 'react-router';
+import routes from './routes';
 import DevTools from './DevTools';
+
+import 'bootstrap/dist/css/bootstrap.css';
+//import 'bootstrap/dist/css/bootstrap-theme.css';
+import './country.css';
 
 render(
     <Provider store={store}>
         <div>
-            <h1>PROJECT INIT TEST</h1>
+            <Router history={hashHistory} routes={routes} />
             <DevTools />
         </div>
     </Provider>,
