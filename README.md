@@ -1,15 +1,16 @@
 
-## 2nd Part of React-Redux task building countries database
+## 3rd Part of React-Redux Countries.js App
 
- In this task has been added:
+ App has been updated with:
 
-* rout and routs(in seperate file)
-* presentational components
-* countries styles
-* bootstrap
+* listing all countries
+* display single country details
+* country search
+* delete country from list
+* display selected continent country
 
 
-[Progress View](https://5d30cba3ad10181e31dc5ccb--angry-agnesi-332a2f.netlify.com/#/)
+[Countreies.js](https://5d31e57e31c278cbc69b84b3--gifted-northcutt-ac5c04.netlify.com/#/)
 
 
 ____________________________________________________________________________________
