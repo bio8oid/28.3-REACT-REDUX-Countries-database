@@ -1,5 +1,5 @@
 
-## 1st Part of React-Redux task building countries database
+## 1st Part of React-Redux Countries.js App
 
 [First configuration result](https://5d30ccbcc5715c6048d00b37--nervous-mclean-7453aa.netlify.com/)
 
