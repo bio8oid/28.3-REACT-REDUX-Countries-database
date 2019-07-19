@@ -10,7 +10,7 @@
 * display selected continent country
 
 
-[Countreies.js](https://5d31e57e31c278cbc69b84b3--gifted-northcutt-ac5c04.netlify.com/#/)
+[Countreies.js](https://countries-js.netlify.com)
 
 
 ____________________________________________________________________________________
