@@ -10,7 +10,7 @@
 * display selected continent country
 
 
-[Countries.js](https://countries-js.netlify.com)
+[CLICK ME TO VIEW](https://countries-js.netlify.com)
 
 
 ____________________________________________________________________________________
